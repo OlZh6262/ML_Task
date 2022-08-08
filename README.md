@@ -14,5 +14,5 @@ In this project I apply PCA and classify the data from “Iris” dataset using 
 ![image](https://user-images.githubusercontent.com/108866885/183468202-0a176d48-97e9-4ff7-8e27-990aee3fb59a.png)
 
 So Random Forest model works a little better than Naive Bayes model. You can also test it by yourself.
-Just open it in JupyterNotebook and run all cells you see
+Just open it in JupyterNotebook and run all cells you see.
 Good luck!

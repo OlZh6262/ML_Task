@@ -1,6 +1,6 @@
-### ML_Task
-### Author - Oleh Zholubak
-### TH-Wildau Welcome IT-School
+# ML_Task
+# Author - Oleh Zholubak
+# TH-Wildau Welcome IT-School
 
 In this project I apply PCA and classify the data from “Iris” dataset using RandomForestClassifier model and Naive Bayes model.
 
